@@ -5,8 +5,8 @@ const RESTAURANT_CONFIG = {
   tagline: "Yummy in your tummy",
   currency: "₹",
   // Use this shop's OWN Supabase project, not another restaurant's project.
-  supabaseUrl: "https://ibqubjavznusojfgmllp.supabase.co",
-  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlicXViamF2em51c29qZmdtbGxwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4MTI5NTUsImV4cCI6MjEwODM4ODk1NX0.0b74X84l-A9MeXnKJSofs6QIqzBDAxQN5giJZg_YVxQ",
+  supabaseUrl: "https://yifevpecdoyhjfncwana.supabase.co",
+  supabaseAnonKey: "sb_publishable_rY4M7sUrrMp7YOIxH3FAOQ_YDZEyT6R",
   // Optional: this shop's Google review link. Blank disables the review prompt.
   googleReviewUrl: "",
   // Cloudflare R2 image storage (dish photos, category banners, logos, bill logo).
